@@ -1,0 +1,12 @@
+Practica2 Vue3
+
+Nombre de integrante:
+
+- Aldo Delgadillo Maldonado
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm install -g json-server@0.17.1
+3) terminal 1: cd db
+4) terminal 1: json-server --watch db.json --port 4000
+5) terminal 2: npm run serve
